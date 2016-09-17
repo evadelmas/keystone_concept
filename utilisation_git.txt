@@ -1,0 +1,26 @@
+Utiliser le contrôle de version avec Git + GitHub
+
+(NB: les "$" indique le début d'une commande à entrer dans l'invite de commande, il ne faut écrire que ce qui vient après, sans le $) 
+
+1) Cloner le repository (répertoire distant partagé sur le site GitHub) sur son PC
+- Se placer dans le dossier où l'on veut cloner le repository (ex. Documents) $cd path/to/Documents
+- Aller chercher l'adresse SSH ou HTTPS du repository (donnée sur la  page GitHub du projet)
+- Cloner le repos. dans Documents $git clone (coller ici l'adresse SSH / HTTPS)
+
+Après cette commande, un nouveau dossier (qui a le même nom que le repos.) a été crée dans Documents 
+
+2) Travailler sur le projet
+- se placer dans le dossier local contenant le projet $cd path/to/Documents/nom-du-projet
+- tirer les changements potentiellement fait par les collaborateurs pour être sûr de travailler sur la version à jour $git pull origin master
+NB: "master" se réfère au fait que l'on travaille sur la branche "maîtresse" du projet, il est aussi possible de créer d'autre branches parallèles et de les fusionner ou pas au projet "maître" au fur et à mesure. 
+- Travailler normalement sur le projet
+- à chaque changement important :
+$git add --all
+$git commit -m "décrire les changements apportés, ex. : ajout d'une slide décrivant la problématique, entre guillemets"
+$git push origin master
+
+git add : indique à git quel changement vont être pris en compte, --all lui précise de prendre en compte tous les changements apportés depuis le dernier push, il est aussi possible de n'ajouter qu'un seul fichier : $git add nom-du-fichier.txt 
+git commit -m "..." associe un texte décrivant les changements enregistrés
+git push origin : indique à git qu'il faut aller enregistrer les modifications sur le repos. distant (l"origine", ici le projet dans GitHub), "master" indique qu'il faut le pousser sur la branche maîtresse.
+
+
