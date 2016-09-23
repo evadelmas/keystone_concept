@@ -67,4 +67,24 @@ Nous avons vu tout au long de la présentation que nous nous dirigeons vers une 
 
 D'autre part, comme l'a souligner Sophia, la question du seuil à partir duquel on désigne une espèce comme CDV se pose, et introduit une certaine dose de subjectivité.
 
-## Slide 29 : 
+> A partir de là je ne me souvenais si on avait répartit les slides. Je les ai donc rédigées mais il faudra que l'on clarifie ça.
+
+## Slide 29 : (4) Solution alternative : analyse conceptuelle et computationnelle du concept
+
+Comme nous l'avons vu jusqu'ici, la notion d'espèce CDV soulève des problèmes à plusieurs niveaux. Au niveau conceptuel, nous ne savons pas exactement comment définir ce terme. Au niveau éthique, une réflexion est nécessaire pour comprendre quels peuvent être les conséquences de l'utilisation plus large de ce concept dans la mise en place de mesure de gestion et de conservation. Au niveau opérationnelle, bien que plusieurs mesures aient été proposées, le choix de la mesure reste encore compliqué et différents auteurs utilisent différentes mesures. Une réflexion transdisciplinaire a donc toutes les chances d'amener une réelle avancée dans la clarification de ce concept. C'est en réalisant ceci que Sophia a initié notre collaboration, encore, comme nous l'avons dit, à ces premiers pas. Nous allons donc vous présenter nos premières pistes de réflexion.
+
+## Slide 30 : Notre projet (1)
+
+[...] Sophia
+
+L'apport de l'écologie computationnelle dans ce projet pourrait être de tester des mesures différentes, choisies ou construites suivant la reflexion menée dans le cadre philosophique. La modélisation permettrai potentiellement de tenter d'identifier les espèces CDV identifiées par ces mesures, et de quantifier l'impact de leur perturbation sur différentes propriétés et processus des communautés.
+
+## Slide 31 : Notre projet (2)
+
+Parallèlement, nous souhaitons aussi mener une réflexion autour de la définition de l'espèce.
+
+[...] Sophia
+
+Cette redéfinition aurait comme bénéfice potentiel de réfléchir à la construction modélisatoire de réseaux théoriques (i.e. il est possible de construire des réseaux écologiques basés non sur des données mais complètement théorique, à partir d'un certain nombre de contraintes, plus ces contraintes sont réalistes et basés sur des processus important pour la construction des communautés, plus le réseaux théorique sera réaliste). Cela pourrait aussi permettre d'améliorer la prise de décisions dans l'aggrégations des réseaux, ce aui posent encore problème comme nous l'avons vu précédemment.
+
+## Slide 32 : FIN
