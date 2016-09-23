@@ -54,3 +54,17 @@ AU delà de ce problème, le cadre de travail offert par les réseaux écologiqu
 ## Slide 16 à 20 : Sophia
 
 ## Slide 21 : (B) Enjeux éthiques et pratiques de conservation
+
+Le consept d'espèce CDV a été largement reconnus comme pouvant être un pillier dans le processus de prise de décision en gestion et conservation des espèces, communautés et écosystèmes. Une clarification de cette notion aurait le potentiel de faire émerger de nouvelles mesures, ou de donner plus de poids à des mesures existantes, permettant ainsi une quantification des rôles relatifs des différents acteurs d'une communauté vis à vis de certains processus (stabilité, fonctionnement, etc. ). Cette quantification pourrait aussi amener une prédictabilité plus grande dans l'identification de ces espèces et dans les conséquences de leur perturbation. Cela amènerai aussi, d'un point de vue plus coneptuelle, une meilleure compréhension théorique du lien entre espèces, structure des communauté et dynamiques de ces communautés.
+
+## Slide 22 à 26 : Sophia
+
+## Slide 27 : D'une vision qualitative à une quantification
+
+Nous avons vu tout au long de la présentation que nous nous dirigeons vers une quantification de l'importance relative des espes vis à vis des processus des communautés. La définition présenté par Sophia à l'instant va dans le sens de cette quantification. La transformation d'une vision binaire à un continuum sur lequel placer les espèces offre une réelle amélioration qui permet d'approcher les différentes situations de manière plus objective dans une certaine mesure, mais aussi plus réaliste. Mais encore une fois, cela soulève tout de même des problèmes. D'une part, nous avons vu que le choix d'une mesure peut être un problème.
+
+## Slide 28 : D'une vision qualitative à une quantification
+
+D'autre part, comme l'a souligner Sophia, la question du seuil à partir duquel on désigne une espèce comme CDV se pose, et introduit une certaine dose de subjectivité.
+
+## Slide 29 : 
