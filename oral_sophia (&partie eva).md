@@ -1,0 +1,149 @@
+# Présentation LEIPS
+
+Sophia
+
+## Slide 2 : Plan
+
+Pendant notre présentation aujourd'hui, nous allons commencer par vous expliquer succintement ce qui est entendu par "espèce CDV" ainsi qu'un bref historique du développement de ce concept. Cela pour que vous puissiez comprendre comment il a emmergé ainsi que sa construction jusqu'à son utilisation actuelle. Une fois que vous aurez eu ce bref apperçu du développement conceptuel de ce concept, nous vous en présenterons les limites. Je commencerai par montrer comment il est traduit en termes de mesures en écologie et quelles sont les limites de ces mesures, Sophia vous parlera des limites liées à la définition du concept. Nous tenterons aussi de répondre à la question de l'intérêt d'une réflexion autour de la définition de l'espèce CDV, au travers des enjeux théoriques et éthiques liés à l'utilisation de ce terme et des mesures qui lui sont associées.
+
+Parce que ce sujet fait débat en écologie, entre autre pour les raisons que nous aurons alors brièvement présentées, certains auteurs ce sont déjà penché sur la clarification de la notuion d'espèce CDV. Nous présenterons donc dans une troisième partie les pistes proposées par ces auteurs. Nous nous concentrerons notamment sur une potentielle solution proposée par Power et collaborateurs en 1996, puisque c'est celle aui semble faire consensus à ce jour. Une fois que Sophia vous aura présenté cette définition, je développerai comment depuis la définition originale de Paine en 1966 nous sommes passés en écologie d'une vision qualitative et binaire de cette notion à une vision plus quantitative et donc continue de l'importance relative des espèces pour les processus des communautés écologiques.
+
+Enfin, dans la dernière partie, nous vous présenterons ce que nous souhaiterions faire pour tenter de résoudre les problèmes qui auront été soulevé jusque là. Notre collaboration en étant à ces débuts, ce projet commun est encore à l'état d'esquisse et de pistes que nous souhaitons développer dans le futur. Nous pensons qu'une approche multidisciplinaire pourrait apporter les ingrédients nécessaires à un projet fructueux.
+
+## Slide 3 : Le concept d'espèce
+
+Commençons donc tout de suite avec une présentation de la construction du concept d'espèce CDV.
+
+## Slide 4 : Définition commune
+
+Avant toute chose, pour que vous puissiez vous représenter ce qu'est une espèce CDV, pour ceux qui ne sont pas familier avec ce terme, je vais commencer par une définition très générale. Ce dessin illustre le rôle des ces espèce. Il s'agit d'éléments de la communauté (définir communauté, différence avec l'écosystème), représenté ici par l'ensemble de l'arche, qui ont un rôle prédominant dans le maintien de la structure de cette communauté. De façon intuitive vous pouvez alors comprendre que quand on perturbe det élément, si on l'enlève (ce qui représente l'exticntion de l'espèce) ou si on modifie drastiquement sa taille (c'est à dire si l'abondance de l'espèce change), les reste de la communauté est mis en péril. D'autre éléments vont être perturbés. La perturbation de l'espèce CDV a donc pour conséquence la perturbation de la communauté.
+
+## Slide 5 à 10 : Sophia
+
+La première définition du concept d’ECV a été proposée par Robert Paine en 1969 (1969a, 92; 1969b, 950) dans un article intitulé : «  A Note on Trophic Complexity and Community Stability ». Paine utilise alors deux cas d’étude où la prédation d’une espèce native dans sa communauté, par exemple, l’étoile de mer Pisaster ochraceus, sur une proie à tendance dominante, par exemple, les moules Mytilus californianus, permet de maintenir : 
+
+Def. ECV = […] « l’intégrité de la communauté et sa persistance inaltérée à travers le temps, c’est-à-dire, sa stabilité […] ». 
+
+Dans cet article, et avant la tentative de clarification de cette notion par Pimm (1984), Paine (1969a, 91) reconnaît le flou qui entoure l’idée de stabilité en écologie et les problèmes qui subsistent pour mesurer une telle propriété à l’échelle des communautés ou des écosystèmes1, mais utilise le terme de manière large, avec test de différents aspects possibles de la définition (donc pas trop un pb malgré différentes compréhensions possibles du terme en écologie et débat actuel sur le sens de celui-ci). Exs : (a), (b), (c). Il considère ainsi que : « the basic data for a community tend to be species lists with comparisons and evaluations made between years on a presence or absence basis ». Pour évaluer le rôle des espèces individuelles dans la stabilité à travers le temps des communautés intertidales rocheuses, Paine prend en compte trois éléments  : (a) degré de fluctuation dans la densité des populations (niveau populationnel), (b) variation dans la composition spécifique des communautés (niveau communautaire) et (c) évaluation de la présence ou absence de ces communautés2. 
+
+L’existence d’espèces clés de voûte dans une communauté est alors évaluée en fonction de l’impact produit par l’activité d’une espèce en particulier sur la diversité et « complexité » de sa communauté à travers le temps ou, de manière plus générale (R.T Paine 2010, 21), sur la « structure et organisation de la communauté ». 
+(slide)
+
+Exemple : Pour illustrer ce point, nous allons présenter le cas d’étude le plus célèbre des recherches de Paine. Ce que vous voyez à l’écran est une représentation topologique des interactions entre espèces ou groupements d’espèces dans une communauté intertidale rocheuse de la côte ouest nord-américaine. Les flèches indiquent quel organisme de l’espèce ou du groupement d’espèces considéré (par exemple, Mytilus ou la famille de bulots à gauche) est mangé par l’escargot Thais ou par Pisaster. Comme Pisaster est la dernière espèce prédatrice au sommet de ce réseau « mangeurs-mangés », celle-ci est dîte : « top-prédatrice ». Les flèches en gras à présent. 
+
+La flèche qui part de M. à P. représente l’interaction en vertu de laquelle P. est une espèce clé de voûte. Le gras indique une interaction forte, privilégiée entre Pisaster et Mytilus : Pisaster ayant tendance selon Paine (1969a, 1969b) à préférer les moules aux autres proies disponibles. La flèche qui part de M. vers les bulots indique quant à elle la présence d’un autre type d’interaction forte, à savoir la compétition pour les ressources (ici l’accès à un support rocheux) entre M. et les autres espèces de mollusques. Or, comme l’indique le « + » sur le graphique, cette compétition se révèle seulement au bénéfice de M.. En effet, (slide)
+
+En l’absence de P., l’ensemble des autres espèces de la communauté disparaît jusqu’à la communauté entière qui se réduit à une seule population d’organismes, celle de M. 
+
+(slide) 
+
+Considérant ainsi l’effet produit par le retrait de Pisaster sur la « stabilité » de la communauté, Paine conclut au caractère clé de voûte de cette espèce dans les communautés intertidales rocheuses (exposées aux vagues). Dans un article publié plus tard en 1969, Paine précise alors la nature et conditions du rôle clé de voûte des espèces de cette facon : 
+
+Def. (2) ECV = Espèce qui exerce (a) une prédation préférentielle sur (b) un consommateur primaire à tendance dominante dans sa communauté.
+(slide)
+
+Partie 2. : Pbs rencontrés
+
+=> Différentes définitions qualitatives du concept où ECV sont caract. par différents traits et différents types d'effet sur leur communauté : Prédatrice CV (activité trophique) vs ingénieur écologique (relations non trophiques impliquées)
+
++ rappel liste menge et al 1994 (imprimer article) 
+
+
+## Slide 11 : Foisonnement des mesures en écologie (partie 2 : problèmes rencontrés)
+
+La multiplication des définition, présentée par Sophia, soulève un premier problème. Un autre problème est comment peut-on transcrire ces définition en mesures opérationnelles qui permettrai d'identifier quelles sont les espèces clé de voûte dans des communautés données. Je vais donc vous présenter rapidement comment les écologues travaillent autour de ce concept.
+
+Si vous vous souvenez de la figure présentée précédemment par Sophia, montrant le rôle CDV de l'étoile de mer *Pisaster*, vous pouvez voir que le focus est sur cette espèce particulière, et sur ces voisins directes. Or, en écologie, nous reconnaissons de plus en plus l'importance de prendre l'espèce dans son contexte, et pas seulement dans son contexte directe (ces voisins direct), mais dans le contexte globale de l'ensemble de sa communauté. Vous pouvez voir sur cette figure un exemple de représentation d'une communauté par l'ensemble des interactions entre toutes les espèces. C'est le réseaux trophique charactéristique de cette communauté (qui n'est pas celle de *Pisaster*). On peut aussi travailler avec d'autre types de réseaux, montrant d'autres sortes d'interactions (pollinisation, relations hôte-parasite, etc. ).
+
+Les réseaux écologiques offrent un cadre de travail permettant de quantifier toutes sortes d'attributs de la communauté, depuis sa taille, son diamètre, sa forme, mais aussi des attributs plus locaux, tels que la répartitions des liens entre les différentes espèces. Ce cadre de travail est particulièrement intéressant quand on s'intéresse aux espèces CDV. En effet, comme nous l'avons vu pendant la présentation des différentes définitions, leur rôle fait d'elles des interacteurs important du réseaux, des "joueurs clés". La structure de leurs interactions dans le contexte de l'ensemble du réseau est donc à même d'être un excellent moyen de les identifier et de quantifier leur rôle.
+
+## Slide 12 : Foisonnement des mesures en écologie (partie 2 : problèmes rencontrés)
+
+Le problème étant de trouver quelles sont les mesures de la structure de leurs interactions qui sont le plus à même de traduire leur rôle CDV. Nous avons vu que le premier obstacle est d'essayer de coller au mieux à la définition du terme. Un autre obstacle est le choix de la mesure. Je vais vous présenter différentes mesures qui ont été utilisées en écologie.
+
+Certains auteurs ont tout d'abord utilisé le *degré* de l'espèce. Le degré est un terme utiisé pour désigner la quantification du nombre de voisin (ou d'interacteurs) d'une espèce. Ces auteurs se sont basés sur le principe que les espèces qui ont une importance majeure pour les processus de la communauté sont plus à même d'avoir une structure riche d'interaction, leur "permettant" ainsi d'influencer plus d'espèces. Mais cette vue est très locale et ne prend pas en compte les interactions indirectes d'une espèces sur une autre. Par exemple certaines espèces ont très peu d'interactions mais leur place dans le réseau est très importante. C'est notamment le cas dans certaines communautés marines où la diversité d'espèces est très importante dans les haut niveaux trophiques (les prédateurs) et dans les bas niveaux (le plancton, phytoplancton, etc. ) mais où le bas et le haut de la communauté ne sont liés que par un nombre très restreint d'espèce (par ex. anchoix, crill, etc. ). Ces espèces forment ainsi un pont d'énergie et de matière d'une importance primordiale pour le maintient de la structure et des processus de l'écosystème mais n'ont eux même que peu d'interactions.
+
+De plus les espèces CDV ont souvent, à l'inverse des autres espèces dont les perturbation ne se propagent généralement qu'à leurs voisisn direct, des effets indirects forts, qui peuvent se faire sentir au travers de cascade trophiques.
+
+Les espèces CDV peuvent donc être des interacteurs important sans forcément avoir beaucoup d'interacteurs directs.
+
+> Sur la slide faire un schéma qui esxplique ce que sont des voisins/interacteurs directs
+
+## Slide 13 : Foisonnement des mesures en écologie (partie 2 : problèmes rencontrés)
+
+L'émergence de mesures à échelle plus moyenne a été une tentative de résoudre ce problème. Au lieu de compter les voisins d'une espèce, on étudie le voisinage du voisinage grâce à différentes mesure de centralité que je ne décrirai pas ici.
+
+## Slide 14 : Foisonnement des mesures en écologie (partie 2 : problèmes rencontrés)
+
+D'autres mesures encore sont apparus, soulignant l'importance de prendre en compte non seulement l'importance des espèce mais aussi l'unicité de leur rôle. Une espèce dont le rôle peut être repris par une autre si elle vient à disparaître n'est pas une espèce CDV. Plusieurs indices ont donc été utilisés pour tenter de mesurer ces propriétés.
+
+Le problème que nous voyons maintenant émerger est qu'il y a une multiplication des mesures disponibles, mais sans une réflexion claire sur ce que nous voulons mesurer, et quelles sont les propriétés qui caractérise une espèce CDV, il est difficile de construire ou d'identifier un indice approprié.
+
+## Slide 15 : Foisonnement des mesures en écologie (partie 2 : problèmes rencontrés)
+
+AU delà de ce problème, le cadre de travail offert par les réseaux écologique soulève le problème de la définition de l'espèce. En effet, pour des raisons pratiques, quand on construit ces réseaux il est nécessaire d'aggréger les individus en *noeuds*. Les noeuds correspondent au rond que vous voyez sur ce schéma, entre lesquels les interactions ont lieu. Souvent on choisit de regrouper les individus appartenant à une même espèce. Cela soulève plusieurs problèmes. (i) Notre connaissance est très hétérogène, on arrive souvent à très bien identifier les espèces des niveaux supérieurs (mammifère par exemple) mais peu ceux des niveaux inférieurs. Ainsi on peu avoir toutes espèces de phytoplancton aggrégées en un seul noeud alors que les espèces de poissons sont résolues au niveau de l'espèce, voir de la sous-espèce. (ii) Les différents individus d'une même espèce phyllogénétique ne portent pas forcément le même rôle interactif. Vous pouvez voir sur ce schéma que la population de lapins a été subdivisée en trois classe de taille car il ne sont pas consommés de la même façon selon leur classe. Ile xiste des cas bien plus drastiques où les prédateurs shiftent complètement d'un âge à l'autre (insecte avec une forme larvaire par exemple). Il est donc nécessaire d'améliorer notre définition de ce que nous considérons comme *espèce* dans le terme *espèce CDV*, dans le but de savoir quels individus nous devons aggréger ou pas lorsque nous souhaitons travailler autour de ce concept. Surtout que nous allons voir qu'une même espèce (au sens phyllogénétique) peut être CDV dans une communauté mais pas dans une autre.
+
+## Slide 16 à 20 : Sophia
+
+Pb de la variabilité du rôle clé de voûte des espèces. Ex. de Paine où communautés avec même composition spécifique n'ont pas nécessairement Pisaster pour ECV. 
+
+- Interlude : Why should we care? 
+
+=> Rappel de ce qui a été dit avant + expliquer pourquoi s'intéresser au concept est important en sciences & philo : 
+
+(a) Sciences : analyse du concept d’ECV permet de questionner (i) le rôle des “espèces” individuelles dans les dynamiques écologiques des communautés, méta-communautés, écosystèmes, etc., et (ii) le type d’interactions (trophiques et/ou non-trophiques) sous-jacentes à ce rôle. 
+
+(b) Ex. en philo : Questionne le rôle et le sens de la notion d’espèce dans les explications en écologie : 
+
+L’espèce peut-elle représenter une unité de généralisation fondamentale en écologie et si oui en quel sens (espèce “écologique”, tropho-espèce, etc.) ?
+
+B. EVA (cf. en dessous)
+
+## Slide 21 : (B) Enjeux éthiques et pratiques de conservation
+
+Le consept d'espèce CDV a été largement reconnus comme pouvant être un pillier dans le processus de prise de décision en gestion et conservation des espèces, communautés et écosystèmes. Une clarification de cette notion aurait le potentiel de faire émerger de nouvelles mesures, ou de donner plus de poids à des mesures existantes, permettant ainsi une quantification des rôles relatifs des différents acteurs d'une communauté vis à vis de certains processus (stabilité, fonctionnement, etc. ). Cette quantification pourrait aussi amener une prédictabilité plus grande dans l'identification de ces espèces et dans les conséquences de leur perturbation. Cela amènerai aussi, d'un point de vue plus conceptuelle, une meilleure compréhension théorique du lien entre espèces, structure des communauté et dynamiques de ces communautés.
+
+## Slide 22 à 26 : Sophia
+
+slide 22 : Intérêt pour éthiques écocentrées
+S23 : 3. Quelles pistes de solutions et d’analyse ?
+S.24 : Def. quantitative du concept 
+=>  Power et al (1996, 609) : 
+
+Def. ECV (2) = “une espèce clé de voûte [est une espèce] dont l’impact sur sa communauté ou son écosystème est important (large), [...] de manière dispropotionnée par rapport [(a)] à son abondance [ET (b) à un certain degré d’impact]”
+S25 : Décrire le schéma + dire avantages de la définition
+S26 : Limites => illustrer pb de seuil avec le virus
+
+## Slide 27 : D'une vision qualitative à une quantification
+
+Nous avons vu tout au long de la présentation que nous nous dirigeons vers une quantification de l'importance relative des espes vis à vis des processus des communautés. La définition présenté par Sophia à l'instant va dans le sens de cette quantification. La transformation d'une vision binaire (CDV non CDV) à un continuum sur lequel placer les espèces offre une réelle évolution qui permet d'approcher les différentes situations de manière dand une certaine mesure plus réaliste. Mais encore une fois, cela soulève tout de même des problèmes. D'une part, dans le choix de la mesure.
+
+## Slide 28 : D'une vision qualitative à une quantification
+
+D'autre part, comme l'a souligné Sophia, la question du seuil à partir duquel on désigne une espèce comme CDV se pose, et introduit une certaine dose de subjectivité.
+
+> A partir de là je ne me souvenais si on avait répartit les slides. Je les ai donc rédigées mais il faudra que l'on clarifie ça.
+
+## Slide 29 : (4) Solution alternative : analyse conceptuelle et computationnelle du concept
+
+Comme nous l'avons vu jusqu'ici, la notion d'espèce CDV soulève des problèmes à plusieurs niveaux. Au niveau conceptuel, opérationnel et éthique. Une réflexion transdisciplinaire a donc toutes les chances d'amener une réelle avancée dans la clarification de ce concept. C'est en réalisant ceci que Sophia a initié notre collaboration, encore, comme nous l'avons dit, à ces premiers pas. Nous allons donc vous présenter nos premières pistes de réflexion.
+
+## Slide 30 : Notre projet (1)
+
+[...] Sophia
+
+Claim : clarification nécessite réflexion autour du rôle épistémique en écologie et bio de la conservation et statut ontologique IE est ce qu'on doit def par condition nécesaire et suffisante ou est ce qu'elle est def par prop nécessaire partagées par toutes especes def comme CDV.
+
+L'apport de l'écologie computationnelle dans ce projet pourrait être de se baser sur cette réflexion pour choisir ou construire des mesures écologiques. C'est à dire que dans le cadre de RE ou l'on aurait identifié une espèce CDV à partir des résultats de cette réflexion philosophique, voir si l'on est capable de retrouver ces espèces à l'aide de mesures écologiques. En réfléchissant au sens des mesures utilisées au niveau de l'espèce et de la communauté, il serait aussi possible d'apporter des éléments de réflexion sur la définition de l'éspèce CDV.
+
+## Slide 31 : Notre projet (2)
+
+Parallèlement, nous souhaitons aussi mener une réflexion autour de la définition de l'espèce.
+
+Pb variabilité du rôle CDV de ssp (phylo) justifie l'analyse de la notion d'sp et d'une redéfinition écologique du terme à partir de l'approche proposée par Van Valen, construit autour de la notion de niche écologique.
+
+[...] Sophia
+
+Cette redéfinition aurait comme bénéfice potentiel de réfléchir à la construction modélisatoire de réseaux théoriques (i.e. il est possible de construire des réseaux écologiques basés non sur des données mais complètement théorique, à partir d'un certain nombre de contraintes, plus ces contraintes sont basés sur des processus important pour la construction des communautés, plus le réseaux théorique sera considéré comme représentatif de ce que l'on observe empiriquement). Cela pourrait aussi permettre d'améliorer la prise de décisions dans l'aggrégations des réseaux, ce qui posent encore problème comme nous l'avons vu précédemment.
+
+## Slide 32 : FIN
